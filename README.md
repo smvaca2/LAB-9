@@ -54,17 +54,17 @@ tanto magnitud como ángulo.
 
 ![](https://github.com/smvaca2/LAB-9/blob/c073a9824f75c9e0c96ef7c569e1da35e793018a/WhatsApp%20Image%202022-08-25%20at%2010.01.00%20PM.jpeg)
 
-![]()
+![](https://github.com/smvaca2/LAB-9/blob/fba2bbbdd4cbbdc5e99188021309721f4d54c704/WhatsApp%20Image%202022-08-26%20at%209.07.52%20AM.jpeg)
 
-![]()
+![](https://github.com/smvaca2/LAB-9/blob/fba2bbbdd4cbbdc5e99188021309721f4d54c704/WhatsApp%20Image%202022-08-26%20at%209.07.55%20AM.jpeg)
 
-![]()
+![](https://github.com/smvaca2/LAB-9/blob/fba2bbbdd4cbbdc5e99188021309721f4d54c704/WhatsApp%20Image%202022-08-26%20at%209.08.04%20AM.jpeg)
 
-![]()
+![](https://github.com/smvaca2/LAB-9/blob/fba2bbbdd4cbbdc5e99188021309721f4d54c704/WhatsApp%20Image%202022-08-26%20at%209.08.05%20AM.jpeg)
 
-![]()
+![](https://github.com/smvaca2/LAB-9/blob/fba2bbbdd4cbbdc5e99188021309721f4d54c704/WhatsApp%20Image%202022-08-26%20at%209.08.21%20AM.jpeg)
 
-![]()
+![](https://github.com/smvaca2/LAB-9/blob/fba2bbbdd4cbbdc5e99188021309721f4d54c704/WhatsApp%20Image%202022-08-26%20at%209.08.19%20AM.jpeg)
 
 ***5.-VIDEO***
 
