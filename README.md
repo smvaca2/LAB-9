@@ -9,7 +9,9 @@ _Martin Vaca
 
 ***1.-OBJETIVOS***
 
+_Entender el uso y representación de fasores}
 
+_Estudiar y aplicar el uso del sistema de numeros complejos para la resolución de ejercicios, operaciones y conversiones.
 
 ***2.-MARCO TEÓRICO***
 
@@ -42,6 +44,19 @@ tanto magnitud como ángulo.
 
 *4.5. PROCEDIMIENTO*
 
+![](https://github.com/smvaca2/LAB-9/blob/c073a9824f75c9e0c96ef7c569e1da35e793018a/WhatsApp%20Image%202022-08-25%20at%2010.00.58%20PM.jpeg)
+
+![](https://github.com/smvaca2/LAB-9/blob/c073a9824f75c9e0c96ef7c569e1da35e793018a/WhatsApp%20Image%202022-08-25%20at%2010.00.58%20PM%20(1).jpeg)
+
+![](https://github.com/smvaca2/LAB-9/blob/c073a9824f75c9e0c96ef7c569e1da35e793018a/WhatsApp%20Image%202022-08-25%20at%2010.00.59%20PM.jpeg)
+
+![](https://github.com/smvaca2/LAB-9/blob/c073a9824f75c9e0c96ef7c569e1da35e793018a/WhatsApp%20Image%202022-08-25%20at%2010.00.59%20PM%20(1).jpeg)
+
+![](https://github.com/smvaca2/LAB-9/blob/c073a9824f75c9e0c96ef7c569e1da35e793018a/WhatsApp%20Image%202022-08-25%20at%2010.01.00%20PM.jpeg)
+
+![](https://github.com/smvaca2/LAB-9/blob/c073a9824f75c9e0c96ef7c569e1da35e793018a/WhatsApp%20Image%202022-08-25%20at%2010.01.00%20PM%20(1).jpeg)
+
+![](https://github.com/smvaca2/LAB-9/blob/c073a9824f75c9e0c96ef7c569e1da35e793018a/WhatsApp%20Image%202022-08-25%20at%2010.01.00%20PM%20(2).jpeg)
 
 ***5.-VIDEO***
 
