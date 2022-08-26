@@ -13,7 +13,7 @@ _Martin Vaca
 
 ***2.-MARCO TEÓRICO***
 
-![]()
+![](https://github.com/smvaca2/LAB-9/blob/b64fbb65c9d5d7e22699a1af3ac85242de2f0dad/teo.PNG)
 
 ***4.-RESPUESTA A INTERROGANTES Y CALCULO DE ERROR***
 
@@ -38,7 +38,7 @@ tanto magnitud como ángulo.
 
 *4.4. MATERIAL Y EQUIPO REQUERIDO*
 
-![]()
+![](https://github.com/smvaca2/LAB-9/blob/b64fbb65c9d5d7e22699a1af3ac85242de2f0dad/mat.PNG)
 
 *4.5. PROCEDIMIENTO*
 
@@ -49,7 +49,9 @@ tanto magnitud como ángulo.
 
 ***6.-CONCLUSIONES***
 
+Con el presente informe se pudo entender la representación del sistema de números complejos, así como el cambio de coordenadas rectangulares a polares. 
 
+Fue importante poder reconocer este cambio de unidades, ya que con este fue posible entender los ejercicios con operaciones para poder resolverlos a lo largo de este informe y tambien de tareas porteriores.
 
 ***7.-BIBLIOGRAFÍA***
 
