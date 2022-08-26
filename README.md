@@ -60,7 +60,7 @@ tanto magnitud como ángulo.
 
 ***5.-VIDEO***
 
-
+https://youtu.be/IVS7QW4HpjQ
 
 ***6.-CONCLUSIONES***
 
